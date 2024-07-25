@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_rows",
+  "info": {
+    "displayName": "row",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "card": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.card"
+    }
+  }
+}

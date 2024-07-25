@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_button_zones",
+  "info": {
+    "displayName": "button-zone",
+    "icon": "arrowRight"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    },
+    "buttons": {
+      "displayName": "button",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.button"
+    }
+  }
+}

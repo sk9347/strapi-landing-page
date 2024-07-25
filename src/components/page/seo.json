@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_page_seos",
+  "info": {
+    "displayName": "SEO",
+    "icon": "search"
+  },
+  "options": {},
+  "attributes": {
+    "property": {
+      "type": "string"
+    },
+    "content": {
+      "type": "string"
+    }
+  }
+}
